@@ -1,5 +1,5 @@
 language: groovy
-dist: precise
+dist: trusty
 sudo: false
 jdk:
 - openjdk7
